@@ -9,5 +9,6 @@ Frontend Developer
 <a href="qkrtpfl9228@gmail.com"><img src="https://img.shields.io/badge/parkseridev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </br>
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seriparkdev&layout=compact)
+<img alt="Top Langs" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seriparkdev&layout=compact" />
+<img alt="seri's GitHub Stats" width="30%" src="https://github-readme-stats.vercel.app/api?username=seriparkdev" />
 </div>
