@@ -1,8 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=a3d5ff&height=150&section=header&fontSize=90)
-### 🧑‍💻
-### SeriPark
+![header](https://capsule-render.vercel.app/api?type=waving&color=005950&height=150&section=header&fontSize=90)
+### SeriPark 🧑‍💻
 Frontend Developer
 
 <a href="https://velog.io/@seripark"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
