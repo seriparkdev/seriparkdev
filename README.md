@@ -1,6 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=dfd3c3&height=130&section=header&fontSize=90)
 ### SeriPark 🧑‍💻
 Frontend Developer
 
